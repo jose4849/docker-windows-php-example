@@ -1,0 +1,11 @@
+Folder structure example:
+my-php-docker
+  src
+    index.php
+  Dockerfile
+  docker-compose.yml
+
+To Run: command to run this code in CMD
+  docker-compose up
+
+
